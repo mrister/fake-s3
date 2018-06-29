@@ -35,5 +35,5 @@ If you want the container to use a CORS environment variables, then
                             -e "CORS_EXPOSE_HEADERS=*" \
                             -d mrister/fake-s3
 
-### Inpiration
-I needed a version that was nt throwing errors due to CORS on latest aws-sdk-js for demoing purposes so I decide to build this docker image based on https://github.com/lphoward/fake-s3
+### Inspiration
+I needed a version that was nt throwing errors due to CORS on latest aws-sdk-js for demoing purposes so I decides to build this docker image based on https://github.com/lphoward/fake-s3
